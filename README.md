@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou Juan 👋
 
-<!--
-**juancodebr/juancodebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de desenvolvimento web
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+🔹 modo-dia-noite  
+Projeto que alterna tema claro e escuro.
+
+## Objetivo
+Conseguir minha primeira oportunidade na área de tecnologia.

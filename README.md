@@ -3,7 +3,6 @@
 💻 Estudante de TI e desenvolvimento web
 
 💡 Sempre aprendendo novas tecnologias
----
 
 ## 🛠 Tecnologias
 

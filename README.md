@@ -51,4 +51,4 @@ Projeto que alterna tema claro e escuro
 
 ---
 
-✨ Sempre aprendendo
+✨ Sempre aprendendo.

@@ -43,9 +43,11 @@ Projeto que alterna tema claro e escuro
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=juancodebr&show_icons=true&cache_seconds=1"/>
+<img src="https://github-readme-stats.vercel.app/api?username=juancodebr&show_icons=true&theme=dark"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancodebr&layout=compact&cache_seconds=1"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancodebr&layout=compact&theme=dark"/>
 
 </div>
 

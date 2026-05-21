@@ -13,9 +13,6 @@
 
 </p>
 
----
-📚 Atualmente estudando:
-
 - HTML
 - CSS
 - JavaScript

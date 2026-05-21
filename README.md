@@ -2,10 +2,6 @@
 
 💻 Estudante de TI e desenvolvimento web
 
----
-
-## 👨‍💻 Sobre
-
 💡 Sempre aprendendo novas tecnologias
 ---
 
@@ -16,6 +12,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github"/>
 
 </p>
+
 ---
 📚 Atualmente estudando:
 

@@ -18,13 +18,4 @@
 - Python
 - Git/GitHub
 ---
-
-## 🚀 Projetos
-
-🔹 Modo Dia/Noite  
-Projeto que alterna tema claro e escuro
-
-🔹 Calculadora Python
-
----
 ✨ Sempre aprendendo.

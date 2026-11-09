@@ -53,13 +53,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancodebr&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🎯 Objetivos
-
-- [x] Concluir a graduação em ADS
-- [ ] Conquistar a primeira vaga como desenvolvedor júnior
-- [ ] Construir um portfólio com projetos completos e bem documentados
-- [ ] Contribuir com projetos open source
-
 ## 📫 Vamos conversar?
 
 Fico feliz em trocar ideias, receber feedback ou falar sobre oportunidades.

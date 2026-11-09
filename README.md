@@ -58,7 +58,6 @@ Formado em ADS, com foco em desenvolvimento de software e dados. Gosto de transf
 
 ## `> now --status`
 
-- 🎓 Concluindo **Análise e Desenvolvimento de Sistemas**
 - 🔭 Aprimorando lógica, estrutura de dados e boas práticas de código
 - 🗄️ Aprofundando em **SQL** e modelagem de banco de dados
 - 🌐 Construindo projetos com **Python** e **JavaScript**

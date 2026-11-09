@@ -34,7 +34,7 @@ class Juan:
         return "Código limpo, soluções práticas e evolução constante."
 ```
 
-Estudante de ADS, perto da formação, com foco em desenvolvimento de software e dados. Gosto de transformar problemas reais em soluções simples, organizadas e bem documentadas.
+Formado em ADS, com foco em desenvolvimento de software e dados. Gosto de transformar problemas reais em soluções simples, organizadas e bem documentadas.
 
 ---
 
